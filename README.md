@@ -2,7 +2,7 @@
 
 # Sokoban Web Application
 
-This repository contains a PHP-based web application implementing the classic [Sokoban](https://www.mathsisfun.com/games/sokoban.html) puzzle game as a university assignment for the "Računarski praktikum 2" course.
+This repository contains a PHP-based web application implementing the classic [Sokoban](https://www.mathsisfun.com/games/sokoban.html) puzzle game as a university assignment for the "Computer Lab II" course.
 
 ## Game Rules
 
